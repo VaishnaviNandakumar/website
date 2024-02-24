@@ -70,3 +70,5 @@ npm install -g @asyncapi/cli@{version}
 ```
 
 </details>
+
+To be removed
